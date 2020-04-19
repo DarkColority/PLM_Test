@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386835388089",
+    "firebase_url": "https://plm-test-ca35e.firebaseio.com",
+    "project_id": "plm-test-ca35e",
+    "storage_bucket": "plm-test-ca35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386835388089:android:15589392bb45dc6e76ed68",
+        "android_client_info": {
+          "package_name": "com.example.plm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386835388089-fma4da7qfco5qap13kv2maqfcaaomfkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqvg8omAYojOTGtkfZjBrK2men-QK0Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386835388089-fma4da7qfco5qap13kv2maqfcaaomfkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PLM_Test</string>
+
+    <string-array name="items">
+        <item>Cédula de Ciudadanía</item>
+        <item>Cédula de Extranjería</item>
+        <item>Pasaporte</item>
+        <item>Tarjeta de Identidad</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
